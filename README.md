@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor!</h1>
-<h3 align="center">A in-progress fullstack developer!</h3>
+<h3 align="center">An in-progress fullstack developer!</h3>
 
 
 - 🔭 I’m currently working on [HTML, CSS and React basics](https://github.com/devictor1/Revisao-QuartoSemestre)
