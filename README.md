@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [HTML, CSS and React basics](https://github.com/devictor1/Revisao-QuartoSemestre)
 
-- 🌱 I’m currently learning *Neural Networks and Machine Learning*
+- 🌱 I’m currently studying *Neural Networks and Machine Learning*
 
 - 🤝 I’m currently finishing my degree on Analysis and Development of Software at [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)
 
