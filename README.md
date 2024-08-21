@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: [*devfgog@gmail.com*](mailto:devfgog@gmail.com)
 
-- 📄 Know about my experiences: [https://devictor1.github.io/Pagina-Pessoal/](https://devictor1.github.io/Pagina-Pessoal/)
+- 📄 Know about my experiences: [https://devictor1.github.io/Pagina-Pessoal/](https://devictor1.github.io/Pagina-Pessoal/) (PAGE UNDER CONSTRUCTION)
 
 - ⚡ Fun fact: *I have never left my home country, Brasil.*
 
