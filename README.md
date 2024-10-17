@@ -2,7 +2,7 @@
 <h3 align="center">An in-progress fullstack developer!</h3>
 
 
-- 🔭 I’m currently working on [HTML, CSS and React basics](https://github.com/devictor1/Revisao-QuartoSemestre)
+- 🔭 I’m currently working on [HTML5, CSS3 and React](https://github.com/devictor1/Revisao-QuartoSemestre)
 
 - 🌱 I’m currently studying *Neural Networks and Machine Learning*
 
