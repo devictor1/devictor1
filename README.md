@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [HTML5, CSS3 and React](https://github.com/devictor1/Revisao-QuartoSemestre)
 
-- 🌱 I’m currently studying *Neural Networks and Machine Learning*
+- 🌱 I’m currently studying *Neural Networks, Machine Learning and Amazon Web Services*
 
-- 🤝 I’m currently finishing my degree on Analysis and Development of Software at [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)
+- 🤝 I’m at the fourth semester, finishing my degree on Analysis and Development of Software at [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)
 
 - 📫 How to reach me: [*devfgog@gmail.com*](mailto:devfgog@gmail.com)
 
