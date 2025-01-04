@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently studying *Neural Networks, Machine Learning and Amazon Web Services*
 
-- 🤝 I’m at the fourth semester, finishing my degree on Analysis and Development of Software at [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)
+- 🤝 I have just graduated on Analysis and Development of Software at [Faculdade Flamingo](https://www.faculdadeflamingo.com.br/)
 
 - 📫 How to reach me: [*devfgog@gmail.com*](mailto:devfgog@gmail.com)
 
